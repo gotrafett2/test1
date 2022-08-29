@@ -368,9 +368,24 @@ li {
 		height: 40vh;
 	}
 	.back-2 {
-		height: 50vh;
+		height: 60vh;
 	}
 	.menu-button {
 		font-size: 70px;
+	}
+	.img-portfolio, .img-portfolio-ban {
+		height: 200px;
+	}
+	.port {
+		font-size: 65px;
+	}
+	.about-me {
+		font-size: 25px;
+	}
+	.button {
+		padding: 30px 70px;
+	}
+	.bitlo {
+		font-size: 35px;
 	}
 }
