@@ -318,7 +318,8 @@ li {
 
 .me {
 	font-size: 60px;
-	margin: 0 0 450px 150px;
+	/*margin: 0 0 450px 150px;*/
+	margin: 0 0 450px 0;
 	/*margin: 50px;*/
 	color: #c21e4e;
 	font-family: 'Josefin Sans', sans-serif;
@@ -349,8 +350,8 @@ li {
 	display: inline-block;
 	/*top: 100px;
 	left: 32%;*/
-	margin: 200px 0 0 100px;
-	/*margin: -50% 0 0 50%;*/
+	/*margin: 200px 0 0 100px;*/
+	margin: 200px 0 0 0;
 	font-weight: bold;
 	letter-spacing: 1px;
 	font-family: 'Josefin Sans', sans-serif;
