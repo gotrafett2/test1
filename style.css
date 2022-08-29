@@ -395,4 +395,7 @@ li {
 	.tagcloud {
 		margin: 150px 0 0 0;
 	}
+	.back {
+		background: url("image/bg4.png") center no-repeat fixed;
+	}
 }
